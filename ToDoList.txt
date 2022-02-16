@@ -1,0 +1,3 @@
+cleaning,low
+ordering a dresser,mid
+doing laundry,mid
